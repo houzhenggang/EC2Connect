@@ -1,2 +1,4 @@
 # Project exclude paths
 /venv/
+/EC2_Console.egg-info/
+/EC2Console.egg-info/
